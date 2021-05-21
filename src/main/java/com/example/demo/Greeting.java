@@ -1,5 +1,5 @@
 package com.example.demo;
-// a demo program
+// a demo program testing
 public class Greeting {
     private String content;
     private Long id;
